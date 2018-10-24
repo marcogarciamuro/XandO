@@ -75,7 +75,7 @@ int main()
      {
       for(int c=0;c<COLUMNS;c++)
       { 
-        cout<<board[row][column]<<" ";
+        cout<<board[r][c]<<" ";
       }
       cout<<endl;
 
